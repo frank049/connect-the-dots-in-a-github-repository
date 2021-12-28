@@ -1,4 +1,4 @@
-# Git Tips
+# Git Tips Frank
 
 Here are some good tips and tricks:
 
